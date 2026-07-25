@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Lógica",
+    "level": 70
+  },
+  {
+    "name": "Frontend",
+    "level": 80
+  },
+  {
+    "name": "Backend",
+    "level": 70
+  },
+  {
+    "name": "Bases de datos",
+    "level": 85
+  },
+  {
+    "name": "React",
+    "level": 80
+  },
+  {
+    "name": "Trabajo en equipo",
+    "level": 90
+  },
+  {
+    "name": "Resolución de problemas",
+    "level": 70
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "title": "KinalBank",
+    "slug": "kinalbank",
+    "featured": true,
+    "category": "Full Stack",
+    "year": "2026",
+    "status": "Finalizado",
+    "role": "Frontend y lógica de interfaz",
+    "shortDescription": "Aplicación bancaria multi-rol con interfaces independientes para la gestión de administradores y clientes.",
+    "overview": "KinalBank es una aplicación bancaria simulada que permite gestionar cuentas, movimientos y usuarios desde dos perfiles distintos: administrador y cliente, cada uno con su propia interfaz y funciones.",
+    "problem": "Las plataformas bancarias necesitan separar claramente las funciones administrativas de las funciones del cliente final, evitando que ambos perfiles compartan la misma vista o accedan a información que no les corresponde.",
+    "solution": "Se diseñaron interfaces independientes para cada rol: el administrador puede gestionar cuentas y usuarios desde un panel de control, mientras que el cliente cuenta con una vista simplificada para consultar su saldo, movimientos y transferencias.",
+    "technologies": [
+      "React",
+      "MongoDB",
+      ".NET",
+      "Node.js",
+      "GitHub"
+    ],
+    "features": [
+      "Inicio de sesión diferenciado por rol",
+      "Panel de administrador para gestión de cuentas y usuarios",
+      "Vista de cliente con saldo, movimientos y transferencias",
+      "Interfaz responsive para escritorio y móvil",
+      "Persistencia local de información"
+    ],
+    "learned": [
+      "Manejo de roles y permisos en una aplicación React",
+      "Diseño de interfaces bancarias claras y confiables",
+      "Organización de estado entre múltiples vistas",
+      "Buenas prácticas de estructura frontend"
+    ],
+    "metrics": [
+      {
+        "label": "Tipo",
+        "value": "Aplicación bancaria"
+      },
+      {
+        "label": "Enfoque",
+        "value": "Multi-rol"
+      },
+      {
+        "label": "Interfaz",
+        "value": "Responsive"
+      }
+    ],
+    "githubUrl": "https://github.com/aalvarez-2024004/AppMovil-SistemaBancario.git",
+    "deployUrl": "https://app-movil-sistema-bancario-hfca.vercel.app/",
+    "images": [
+      "/images/Banco/LoginBanco.jpg",
+      "/images/Banco/AdminBanco.jpg",
+      "/images/Banco/UsuarioBanco.jpg"
+    ]
+  },
+  {
+    "title": "KinalGourmetHouse",
+    "slug": "kinalgourmethouse",
+    "featured": false,
+    "category": "Full Stack",
+    "year": "2026",
+    "status": "Finalizado",
+    "role": "Diseño de interfaz y estructura de datos",
+    "shortDescription": "Aplicación de restaurante multi-rol con paneles independientes para administrador general, gerente y comensales.",
+    "overview": "KinalGourmetHouse es una aplicación pensada para la gestión de un restaurante, con vistas separadas según el tipo de usuario: administrador general, gerente y comensal, cada una adaptada a sus necesidades.",
+    "problem": "En la gestión de un restaurante conviven distintos roles con responsabilidades muy diferentes, y una sola interfaz genérica dificulta que cada usuario encuentre rápido lo que necesita.",
+    "solution": "Se crearon paneles independientes: el administrador general supervisa la operación completa, el gerente gestiona el día a día del local, y el comensal cuenta con una vista simple para consultar el menú y realizar pedidos.",
+    "technologies": [
+      "React",
+      "MongoDB",
+      ".NET",
+      "Node.js",
+      "GitHub"
+    ],
+    "features": [
+      "Paneles independientes por tipo de usuario",
+      "Gestión de menú y pedidos",
+      "Indicadores clave para administración y gerencia",
+      "Diseño responsive",
+      "Estructura preparada para conexión futura con backend"
+    ],
+    "learned": [
+      "Construcción de interfaces multi-rol",
+      "Organización visual de información por perfil de usuario",
+      "Manejo de arreglos y datos simulados",
+      "Mejora de experiencia de usuario en distintos paneles"
+    ],
+    "metrics": [
+      {
+        "label": "Tipo",
+        "value": "Aplicación de restaurante"
+      },
+      {
+        "label": "Enfoque",
+        "value": "Multi-rol"
+      },
+      {
+        "label": "Interfaz",
+        "value": "Responsive"
+      }
+    ],
+    "githubUrl": "https://github.com/jrealiquez-2021549/AppMovil-SistemaRestaurante.git",
+    "deployUrl": "https://kinal-gourmet-web.vercel.app/",
+    "images": [
+      "/images/Restaurante/LoginRestaurante.jpg",
+      "/images/Restaurante/AdminRestaurante.jpg",
+      "/images/Restaurante/UsuarioRestaurante.jpg"
+    ]
+  },
+  {
+    "title": "EcoKinal",
+    "slug": "ecokinal",
+    "featured": false,
+    "category": "Full Stack",
+    "year": "2026",
+    "status": "Finalizado",
+    "role": "Backend, base de datos e integración frontend",
+    "shortDescription": "Aplicación de reciclaje simulada con vistas dedicadas al usuario",
+    "overview": "EcoKinal es una aplicación orientada al reciclaje que permite gestionar puntos de reciclaje, interacción con otros usuarios y actividad desde tu propio usuario.",
+    "problem": "El reciclaje en el país, EcoKinal soluciona ese problema dando una app que nos permita saber donde va cada basura si es reciclabe o no, y tener un Bot que te solucione las dudas en tiempo real.",
+    "solution": "Se estructuró una aplicación full stack con roles diferenciados, donde el administrador gestiona la información general del sistema y el cliente cuenta con una vista enfocada en su actividad de reciclaje.",
+    "technologies": [
+      "React",
+      "MongoDB",
+      ".NET",
+      "Node.js",
+      "GitHub"
+    ],
+    "features": [
+      "Cuanta del usuario",
+      "Operaciones CRUD",
+      "Conexión con base de datos",
+      "Separación entre frontend y backend",
+      "Validación básica de formularios"
+    ],
+    "learned": [
+      "Diseño de endpoints REST",
+      "Conexión entre frontend y backend",
+      "Modelado básico de datos",
+      "Organización de arquitectura full stack con múltiples roles"
+    ],
+    "metrics": [
+      {
+        "label": "Tipo",
+        "value": "Full Stack"
+      },
+      {
+        "label": "Enfoque",
+        "value": "Reciclaje"
+      },
+      {
+        "label": "Interfaz",
+        "value": "Responsive"
+      }
+    ],
+    "githubUrl": "https://github.com/aalvarez-2024004/EcoApp.git",
+    "deployUrl": "https://app-movil-eco-kinal.vercel.app/",
+    "images": [
+      "/images/EcoKinal/LoginEcoKinal.jpg",
+      "/images/EcoKinal/ClienteEcoKinal.jpg",
+      "/images/EcoKinal/EcoBotEcoKinal.jpg"
+    ]
+  }
+]

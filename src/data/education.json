@@ -1,0 +1,17 @@
+[
+  {
+    "period": "4.º Perito",
+    "title": "Inicio de formación técnica",
+    "description": "Primer acercamiento formal a programación, lógica y fundamentos tecnológicos en Fundación Kinal."
+  },
+  {
+    "period": "5.º Perito",
+    "title": "Desarrollo de bases técnicas",
+    "description": "Fortalecimiento en desarrollo web, bases de datos y creación de proyectos académicos."
+  },
+  {
+    "period": "6.º Perito",
+    "title": "Perfil Full Stack en formación",
+    "description": "Consolidación de conocimientos en frontend, backend, bases de datos y proyectos integradores."
+  }
+]

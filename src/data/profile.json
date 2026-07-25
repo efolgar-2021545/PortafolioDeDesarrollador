@@ -1,0 +1,82 @@
+{
+  "displayName": "Erick Folgar",
+  "fullName": "Erick Mauricio Folgar Alarcón",
+  "title": "Desarrollador Full Stack",
+  "subtitle": "Código limpio para construir soluciones con lógica, diseño y propósito.",
+  "country": "Guatemala",
+  "institution": "Fundación Kinal",
+  "education": "Estudiante de 6.º Perito en Informática",
+  "email": "mauriciof20082@gmail.com",
+  "emailLink": "mailto:mauriciof20082@gmail.com",
+  "profile": "Desarrollador Full Stack en formación",
+  "about": "Soy Erick Mauricio Folgar Alarcón, Desarrollador Full Stack en formación. Me enfoco en crear soluciones digitales claras, funcionales y bien estructuradas, combinando lógica, diseño y buenas prácticas. Me interesa resolver problemas mediante código limpio, aprender de cada proyecto y crecer profesionalmente hasta convertirme en Ingeniero en Sistemas y desarrollador Senior Full Stack.",
+  "heroStack": [
+    "React",
+    "MondoDB",
+    "Backend",
+    "Frontend",
+    "GitHub"
+  ],
+  "heroHighlights": [
+    {
+      "label": "Perfil",
+      "value": "Full Stack"
+    },
+    {
+      "label": "País",
+      "value": "Guatemala"
+    },
+    {
+      "label": "Formación",
+      "value": "Fundación Kinal"
+    }
+  ],
+  "details": [
+    {
+      "label": "Nombre completo",
+      "value": "Erick Mauricio Folgar Alarcón"
+    },
+    {
+      "label": "País",
+      "value": "Guatemala"
+    },
+    {
+      "label": "Formación",
+      "value": "Estudiante de 6.º Perito en Informática"
+    },
+    {
+      "label": "Institución",
+      "value": "Fundación Kinal"
+    },
+    {
+      "label": "Contacto",
+      "value": "mauriciof20082@gmail.com"
+    },
+    {
+      "label": "Perfil",
+      "value": "Desarrollador Full Stack en formación"
+    }
+  ],
+  "goals": [
+    {
+      "period": "Presente",
+      "codeName": "presente",
+      "description": "Fortalecer habilidades como desarrollador Full Stack."
+    },
+    {
+      "period": "1 año",
+      "codeName": "objetivo1Anio",
+      "description": "Mejorar habilidades técnicas e incorporarme al sector laboral."
+    },
+    {
+      "period": "3 años",
+      "codeName": "objetivo3Anios",
+      "description": "Dominar arquitectura de software de manera avanzada."
+    },
+    {
+      "period": "5 años",
+      "codeName": "objetivo5Anios",
+      "description": "Convertirme en Ingeniero en Sistemas y Desarrollador Senior Full Stack."
+    }
+  ]
+}
